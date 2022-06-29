@@ -52,7 +52,7 @@ Modified School District Analysis.
 
 <figure>
     <figcaption>Modified school district analysis</figcaption>
-    <img src="/Resources/district_summary_modified" width="1059" height="114"
+    <img src="/Resources/district_summary_modified.png" width="1059" height="114"
          alt="Modified school district analysis">
 </figure> <br>
 
@@ -64,7 +64,7 @@ Modified School District Analysis.
 
 <figure>
     <figcaption>School summary</figcaption>
-    <img src="/Resources/school_summary" width="1503" height="915"
+    <img src="/Resources/school_summary.png" width="1503" height="915"
          alt="School summary">
 </figure> <br>
 
@@ -75,7 +75,7 @@ Top 5 Performing Schools
 
 <figure>
     <figcaption>Top 5 Performing Schools</figcaption>
-    <img src="/Resources/top_5_performing_schools" width="1487" height="377"
+    <img src="/Resources/top_5_performing_schools.png" width="1487" height="377"
          alt="Top 5 Performing Schools">
 </figure> <br>
 
@@ -83,7 +83,7 @@ Bottom 5 Performing Schools
 
 <figure>
     <figcaption>Bottom 5 Performing Schools</figcaption>
-    <img src="/Resources/bottom_5_performing_schools" width="1492" height="369"
+    <img src="/Resources/bottom_5_performing_schools.png" width="1492" height="369"
          alt="Bottom 5 Performing Schools">
 </figure> <br>
 
@@ -94,7 +94,7 @@ Average math score for each grade level from each school
 
 <figure>
     <figcaption>Average math score by grade</figcaption>
-    <img src="/Resources/average_math_score_grade_level" width="507" height="801"
+    <img src="/Resources/average_math_score_grade_level.png" width="507" height="801"
          alt="Average math score by grade">
 </figure> <br>
 
@@ -102,7 +102,7 @@ Average reading score for each grade level from each school
 
 <figure>
     <figcaption>Average reading score by grade</figcaption>
-    <img src="/Resources/average_reading_score_grade_level" width="502" height="772"
+    <img src="/Resources/average_reading_score_grade_level.png" width="502" height="772"
          alt="Average reading score by grade">
 </figure> <br>
 
@@ -112,7 +112,7 @@ Average reading score for each grade level from each school
 
 <figure>
     <figcaption>Scores by school spending</figcaption>
-    <img src="/Resources/scores_school_spending_per_student" width="1854" height="393"
+    <img src="/Resources/scores_school_spending_per_student.png" width="1854" height="393"
          alt="Scores by school spending">
 </figure> <br>
 
@@ -122,7 +122,7 @@ Average reading score for each grade level from each school
 
 <figure>
     <figcaption>Scores by school size</figcaption>
-    <img src="/Resources/scores_school_by_size" width="1854" height="393"
+    <img src="/Resources/scores_school_by_size.png" width="1854" height="393"
          alt="Scores by school size">
 </figure> <br>
 
@@ -131,6 +131,6 @@ Average reading score for each grade level from each school
 
 <figure>
     <figcaption>Scores by school type</figcaption>
-    <img src="/Resources/scores_school_by_type" width="1603" height="270"
+    <img src="/Resources/scores_school_by_type.png" width="1603" height="270"
          alt="Scores by school type">
 </figure> <br>
